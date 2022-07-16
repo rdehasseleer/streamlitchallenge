@@ -1,5 +1,13 @@
-streamlit
-pandas
 altair
 numpy
+pandas
 plotly
+requests
+streamlit
+streamlit_pandas_profiling
+streamlit-aggrid
+streamlit-elements
+streamlit-option-menu
+streamlit-shap
+streamlit-tags
+xgboost
